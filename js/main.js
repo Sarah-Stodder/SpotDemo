@@ -2,9 +2,7 @@
 let song;
 let playSong;
 
-// Spotify Client Creds
-const clientId = "cdfa465ae4d043939eba8e1c971cd536";
-const clientSecret = "ac7796cb5ae14d6981c0d024021f9fda";
+
 
 // 
 const getToken = async () => {
